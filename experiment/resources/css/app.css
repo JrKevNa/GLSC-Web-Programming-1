@@ -1,0 +1,10 @@
+.center
+{
+    display: flex;
+    text-align: center;
+}
+
+.blue
+{
+    color: rgb(0, 60, 255);
+}
